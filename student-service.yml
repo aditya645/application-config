@@ -1,0 +1,13 @@
+server:
+  port: 0
+
+spring:
+  datasource:
+     service-url:
+       defaultZone: http://localhost:3306/student-schema
+     username: root
+     password: Vandana1!
+     region: default
+     driver-class-name: com.mysql.jdbc.Driver
+
+  
