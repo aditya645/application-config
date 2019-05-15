@@ -5,7 +5,4 @@ spring:
   datasource:
      driver-class-name: com.mysql.jdbc.Driver
      initialization-mode: embedded
-  cloud:
-     config:
-        name: student-service 
   
