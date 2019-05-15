@@ -4,5 +4,5 @@ server:
 spring:
   datasource:
      driver-class-name: com.mysql.jdbc.Driver
-     initialization-mode: always
+     initialization-mode: embedded
   
