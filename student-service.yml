@@ -1,3 +1,6 @@
 spring:
   datasource:
-    initialization-mode: always
+    initialization-mode: embedded
+    url: jdbc:mysql://localhost:3306/ad_46bee82017153bc
+    username: root
+    password: Vandana1!
