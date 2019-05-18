@@ -1,0 +1,5 @@
+spring:
+  security:
+       user:
+         name: aditya645
+         password: Vandana1!

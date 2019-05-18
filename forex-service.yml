@@ -1,3 +1,7 @@
 spring:
    datasource:
-      initialization-mode: embedded
+      initialization-mode: always
+   security:
+      user:
+         name: aditya645
+         password: Vandana1!
