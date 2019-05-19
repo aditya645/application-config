@@ -3,9 +3,3 @@ spring:
       name: forex-service
    datasource:
       initialization-mode: always
-   security:
-      basic:
-        enabled: false
-management:
-   security:
-      enabled: false
