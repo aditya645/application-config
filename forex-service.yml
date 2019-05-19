@@ -4,6 +4,5 @@ spring:
    datasource:
       initialization-mode: always
    security:
-      user:
-         name: aditya645
-         password: Vandana1!
+      basic:
+        enabled: false
