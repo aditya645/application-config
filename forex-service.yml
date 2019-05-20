@@ -5,4 +5,4 @@ spring:
       initialization-mode: always
       url: ${vcap.services.myuserclouddb.credentials.url}
       username: ${vcap.services.myuserclouddb.credentials.username}
-      password ${vcap.services.myuserclouddb.credentials.password}
+      password: ${vcap.services.myuserclouddb.credentials.password}
